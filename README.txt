@@ -29,14 +29,14 @@ ADDITIONAL NOTES FOR SPECIFIC PROJECTS:
 4) Project 5 - Texture Mapping:
 	- ‘t’ to enable textures
 	- ‘f’ to disable textures
-  - ‘1’ to display the sphere
-  - ‘2’ to display the cube
-  - ‘3’ to display the cylinder
-  - ‘4’ to display the cone
-  - ‘5’ to display the torus
-  - ‘6’ to display the cow
+	- ‘1’ to display the sphere
+	- ‘2’ to display the cube
+	- ‘3’ to display the cylinder
+	- ‘4’ to display the cone
+	- ‘5’ to display the torus
+	- ‘6’ to display the cow
 5) Project 7 - Shaders II:
 	- ‘1’ to toggle the cow display on and off
 	- ‘2’ to toggle the silhouette shader on and off
 	- ‘+’ to increase shader tolerance (make silhouette larger)
-  - ‘-’ to decrease shader tolerance (make silhouette smaller)
+  	- ‘-’ to decrease shader tolerance (make silhouette smaller)
